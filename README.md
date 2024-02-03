@@ -21,9 +21,9 @@
  🌱 Currently **ReactJs | React Native | Express**.
 
 🏞 **Hobbies:** <br/>
-        - Love playing table tennis! 🏓 <br/>
-        - Diving into captivating novels. 📚 <br/>
-        - Enjoying hikes and the great outdoors. 🏞️
+        🏓 Love playing table tennis! <br/>
+        📚 Diving into captivating novels. <br/>
+        🏞️ Enjoying hikes and the great outdoors. 
  </div>
 
  <br />
