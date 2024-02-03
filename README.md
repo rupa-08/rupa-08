@@ -1,23 +1,29 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rupa-08.rupa-08" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rupa+Shrestha!;&color=FFA300"" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Rupa+Shrestha!;&color=6495ED"" />
 </h1>
 
-<h3 align="center">A passionate software developer from Nepal.</h3>
+<h3 align="center">A passionate software developer hailing from Nepal.</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Frost Digital Ventures** as a **Software Developer**
+ 🚀 I’m currently working as a **Software Developer** at **Frost Digital Ventures.**
+
+ 🔭 I've graduated with a degree in **BSc.(Hons.) Computing**.
  
- 🌱 I’m currently learning **Vue.js, Zustand**
+ 🌱 Currently **ReactJs | React Native | Express**.
 
-💬 Ask me about **front-end development and design**
+ 🌟 I’m interested in **Cross-platform software development**.
 
-⚡ Fun fact **I love playing ping pong!**, **I'm a coffee enthusiast ☕**
+💬 Ask me about **front-end development and design**.
 
+🏞 Hobbies: <br/>
+        - Love playing table tennis! 🏓 <br/>
+        - Diving into captivating novels. 📚 <br/>
+        - Enjoying hikes and the great outdoors. 🏞️
  </div>
  
 <div align="center"> 
