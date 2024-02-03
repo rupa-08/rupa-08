@@ -12,13 +12,13 @@
  
  🚀 I’m currently working as a **Software Developer** at **Frost Digital Ventures.**
 
- 🔭 I've graduated with a degree in **BSc.(Hons.) Computing**.
- 
- 🌱 Currently **ReactJs | React Native | Express**.
-
  🌟 I’m interested in **Cross-platform software development**.
 
-💬 Ask me about **front-end development and design**.
+ 🔭 I've graduated with a degree in **BSc.(Hons.) Computing**.
+
+ 💬 Ask me about **front-end development and design**.
+ 
+ 🌱 Currently **ReactJs | React Native | Express**.
 
 🏞 Hobbies: <br/>
         - Love playing table tennis! 🏓 <br/>
