@@ -8,19 +8,19 @@
 
 <br/>
 
-<div align="center">
+<div>
  
- 🚀 I’m currently working as a **Software Developer** at **Frost Digital Ventures.**
-
- 🌟 I’m interested in **Cross-platform software development**.
+ 🚀 I’m currently working as a **Software Developer** at **Frost Digital Ventures**.
 
  🔭 I've graduated with a degree in **BSc.(Hons.) Computing**.
+
+ 🌟 I’m interested in **Cross-platform software development**.
 
  💬 Ask me about **front-end development and design**.
  
  🌱 Currently **ReactJs | React Native | Express**.
 
-🏞 Hobbies: <br/>
+🏞 **Hobbies:** <br/>
         - Love playing table tennis! 🏓 <br/>
         - Diving into captivating novels. 📚 <br/>
         - Enjoying hikes and the great outdoors. 🏞️
