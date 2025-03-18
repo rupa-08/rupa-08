@@ -49,8 +49,10 @@
 <div align="center">
 <!--     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git" /> -->
 <!--     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb" /><br> -->
-    <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,jupyter,sql,tableau" />
-    <img src="https://skillicons.dev/icons?i=powerbi,scikit-learn,keras,tensorflow,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,jupyter,sql" />
+    <img src="https://skillicons.dev/icons?i=tableau,powerbi,scikit-learn,keras,git,github" /><br>
+</div>
+
 </div>
 
 <br/>
