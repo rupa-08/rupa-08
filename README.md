@@ -4,21 +4,23 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Rupa+Shrestha!;&color=6495ED"" />
 </h1>
 
-<h3 align="center">A passionate software developer hailing from Nepal.</h3>
+<h3 align="center">A passionate data analyst and software developer hailing from USA.</h3>
 
 <br/>
 
-<div align="center">
+<div align="center"> 
+
+🚀 I’m a master's student specializing in **Data Analysis**.
  
- 🚀 I’m currently working as a **Software Developer** at **Frost Digital Ventures**.
+ 🚀 I’ve gained practical experience as a **Software Developer** at **Frost Digital Ventures** for over a year.
 
- 🔭 I've graduated with a degree in **BSc.(Hons.) Computing**.
+ 🔭 I hold a **BSc.(Hons.) in Computing** from my undergraduate studies.
 
- 🌟 I’m interested in **Cross-platform software development**.
+ 🌟 I’m passionate about **Data Analysis, Machine Learning, and Data Visualization**.
 
- 💬 Ask me about **front-end development and design**.
+ 💬 Ask me about **data analytics tools, techniques, and technologies**.
  
- 🌱 Currently **ReactJs | React Native | Express**.
+ 🌱 Currently ** Python (Pandas, NumPy) | SQL | Data Visualization (Tableau, Power BI) | Machine Learning | React JS **.
 
  **Hobbies:** <br/>
         🏓 Love playing table tennis! <br/>
@@ -45,8 +47,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb" /><br>
+<!--     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git" /> -->
+<!--     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb" /><br> -->
+    <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,jupyter,sql,tableau" />
+    <img src="https://skillicons.dev/icons?i=powerbi,scikit-learn,keras,tensorflow,git,github" /><br>
 </div>
 
 <br/>
