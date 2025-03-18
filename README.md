@@ -61,7 +61,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width="390" align="center" src="https://streak-stats.demolab.com?user=rupa-08&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
+<!--   <img width="390" align="center" src="https://streak-stats.demolab.com?user=rupa-08&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/> -->
+    <img width="390" align="center" src="https://github-readme-stats.vercel.app/api?username=rupa-08&count_private=true&show_icons=true&theme=radical" alt="streak stats" />
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupa-08&layout=compact&theme=react&border_radius=10" alt="top langs" />
 </div>
 
