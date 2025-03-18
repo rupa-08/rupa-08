@@ -49,7 +49,7 @@
 <div align="center">
 <!--     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git" /> -->
 <!--     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb" /><br> -->
-    <img src="https://skillicons.dev/icons?i=python,rstudio,sqlite,react,html,css,vscode,github,tailwind" />
+    <img src="https://skillicons.dev/icons?i=anaconda,r,python,pytorch,sqlite,react,html,css,vscode,github,tailwind" />
     <img src="https://skillicons.dev/icons?i=javascript,typescript,express,firebase,mongodb,git,github" /><br>
 </div>
 
@@ -60,10 +60,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 align="center" src="https://streak-stats.demolab.com?user=rupa-08&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
-  <img width=325 align="center" src="https://camo.githubusercontent.com/4c926d8f9b974c08a82441f4b9d96eef061d97f0299309a5ff577675c2ba0db5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d727570612d3038266c61796f75743d636f6d70616374267468656d653d726561637426626f726465725f7261646975733d3130" alt="top langs" />
+<div align="center">
+  <img width="390" align="center" src="https://streak-stats.demolab.com?user=rupa-08&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupa-08&layout=compact&theme=react&border_radius=10" alt="top langs" />
 </div>
+
 
 <hr/>
 
